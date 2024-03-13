@@ -227,7 +227,7 @@ Here you can find a curated list of **awesome** .NET MAUI libraries and resource
   [![GitHub stars](https://img.shields.io/github/stars/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/nor0x/OverFlower?style=flat-square)](https://github.com/nor0x/OverFlower/commits) - Endless scroller control for .NET MAUI.
 - [Sharp.UI](https://github.com/idexus/Sharp.UI)
-  [![GitHub stars](https://img.shields.io/github/stars/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/CodeMarkup-Maui/stargazers)
+  [![GitHub stars](https://img.shields.io/github/stars/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/Sharp.UI/stargazers)
   [![GitHub last-commit](https://img.shields.io/github/last-commit/idexus/Sharp.UI?style=flat-square)](https://github.com/idexus/Sharp.UI/commits) - C# Code Markup Library for .NET MAUI: UI Development with Fluent Methods and Hot Reload (VS Code and VS2022)
 - [OxyPlot.Maui.Skia](https://github.com/oxyplot/oxyplot-maui)
   [![GitHub stars](https://img.shields.io/github/stars/iniceice88/OxyPlot.Maui.Skia?style=flat-square)](https://github.com/oxyplot/oxyplot-maui/stargazers)
